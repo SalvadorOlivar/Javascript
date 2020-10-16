@@ -1,3 +1,4 @@
+//instalar npm install request-promise
 const rp = require('request-promise');
 
 rp('http://google.com')
